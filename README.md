@@ -1,4 +1,4 @@
 # GattinOS
-GattinOS is an Illumos distribution made for fun.
+GattinOS is a linux distribution made for fun.
 
 Idea made by two catgirls for all the catgirls around the world
