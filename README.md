@@ -1,2 +1,2 @@
 # GattinOS
-Nya~
+GattinOS is an Illumos distribution made for fun.
